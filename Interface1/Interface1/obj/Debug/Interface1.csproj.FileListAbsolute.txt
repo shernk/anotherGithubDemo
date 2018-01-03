@@ -1,0 +1,14 @@
+D:\C#\Interface1\Interface1\bin\Debug\Interface1.exe.config
+D:\C#\Interface1\Interface1\bin\Debug\Interface1.exe
+D:\C#\Interface1\Interface1\bin\Debug\Interface1.pdb
+D:\C#\Interface1\Interface1\obj\Debug\Interface1.csprojResolveAssemblyReference.cache
+D:\C#\Interface1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+D:\C#\Interface1\Interface1\obj\Debug\Interface1.exe
+D:\C#\Interface1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\Quoc Thinh\Dropbox\C#\Interface1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\Quoc Thinh\Dropbox\C#\Interface1\Interface1\bin\Debug\Interface1.exe
+C:\Users\Quoc Thinh\Dropbox\C#\Interface1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\Quoc Thinh\Dropbox\C#\Interface1\Interface1\obj\Debug\Interface1.csprojResolveAssemblyReference.cache
+C:\Users\Quoc Thinh\Dropbox\C#\Interface1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Thinh\Dropbox\C#\Interface1\Interface1\obj\Debug\Interface1.exe
+C:\Users\Quoc Thinh\Dropbox\C#\Interface1\Interface1\obj\Debug\Interface1.pdb

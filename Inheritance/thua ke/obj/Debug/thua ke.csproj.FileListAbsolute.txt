@@ -1,0 +1,7 @@
+D:\C#\thua ke\thua ke\bin\Debug\thua ke.exe.config
+D:\C#\thua ke\thua ke\bin\Debug\thua ke.exe
+D:\C#\thua ke\thua ke\bin\Debug\thua ke.pdb
+D:\C#\thua ke\thua ke\obj\Debug\thua ke.csprojResolveAssemblyReference.cache
+D:\C#\thua ke\thua ke\obj\Debug\thua ke.csproj.CoreCompileInputs.cache
+D:\C#\thua ke\thua ke\obj\Debug\thua ke.exe
+D:\C#\thua ke\thua ke\obj\Debug\thua ke.pdb

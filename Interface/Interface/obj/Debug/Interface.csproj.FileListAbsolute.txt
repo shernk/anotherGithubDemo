@@ -1,0 +1,14 @@
+D:\C#\Interface\Interface\bin\Debug\Interface.exe.config
+D:\C#\Interface\Interface\bin\Debug\Interface.exe
+D:\C#\Interface\Interface\bin\Debug\Interface.pdb
+D:\C#\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\C#\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\C#\Interface\Interface\obj\Debug\Interface.exe
+D:\C#\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Quoc Thinh\Dropbox\C#\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Quoc Thinh\Dropbox\C#\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Quoc Thinh\Dropbox\C#\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Quoc Thinh\Dropbox\C#\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Quoc Thinh\Dropbox\C#\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Thinh\Dropbox\C#\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Quoc Thinh\Dropbox\C#\Interface\Interface\obj\Debug\Interface.pdb
